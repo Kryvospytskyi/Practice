@@ -1,0 +1,44 @@
+		.logo {
+	 		margin-top: 30px;
+ 			margin-bottom: 40px;
+ 			margin-left: 30px;
+ 		}
+ body {
+  				font-size: 1.3rem;
+  			}
+  			h1 {
+    			
+    			font-family: Roboto Flex;
+    			text-align: center;
+			}
+			h3 {
+				text-indent: 9mm;
+  				font-family: Roboto Flex;
+  				margin-left: 70px;
+  				margin-bottom: 20px;
+			}
+			.justify {
+				text-align: start;
+				margin-top: 40px;
+				margin-bottom: 25px;
+				margin-left: 150px;
+  				margin-Right: 150px;
+			}
+  			.p {
+  				text-indent: 6mm;
+  				font-family: Roboto Flex;
+    			text-align: justify;
+    			line-height: 30px;
+    			margin-top: 15px;
+				margin-bottom: 15px;
+				margin-left: 20px;
+				margin-right: 130px;
+			}
+			.link {
+				font-family: Roboto Flex;
+				line-height: 24px;
+    			margin-top: 15px;
+				margin-bottom: 15px;
+				margin-left: 50px;
+				margin-right: 24px;
+			}
